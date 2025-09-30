@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="YOUR_BANNER_URL" alt="Banner" width="100%"/>
+  <img src="https://github.com/leviarista/github-profile-header-generator/raw/main/assets/tech-banner.png" alt="AI Tech Banner" width="100%"/>
 </p>
 
 # 👋 Hey, I'm Devesh Kumar Mitra (aka Rimuru)  
