@@ -3,7 +3,7 @@
   <img src="https://github.com/leviarista/github-profile-header-generator/raw/main/assets/tech-banner.png" alt="AI Tech Banner" width="100%"/>
 </p>
 
-# 👋 Hey, I'm Devesh Kumar Mitra (aka Rimuru)  
+# 👋 Hey, I'm Devesh Kumar Mitra  
 
 💡 B.Tech CSE (AI & ML) @ Parul University  
 ⚡ Currently **building Ciel AI** – a self-evolving assistant inspired by divine intelligence (work in progress 🛠️)  
