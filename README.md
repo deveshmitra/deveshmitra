@@ -4,7 +4,7 @@
 </p>
 
 # 💫 **Devesh Kumar Mitra**
-### *AI & ML Engineer in the Making | Builder of Ciel — the Evolving Intelligence*
+### *AI & ML Engineer in the Making*
 
 <p align="center">
   <strong>B.Tech CSE (AI & ML) @ Parul University</strong><br/>
