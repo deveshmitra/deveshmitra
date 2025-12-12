@@ -4,12 +4,11 @@
 </p>
 
 # 💫 **Devesh Kumar Mitra**
-### *AI & ML Engineer in the Making*
+### *AI & ML Enthusiast | Future-Ready Developer*
 
 <p align="center">
-  <strong>B.Tech CSE (AI & ML) @ Parul University</strong><br/>
-  🧠 Currently engineering <strong>Ciel AI</strong> — a self-evolving, divine-intelligence inspired assistant<br/>
-  🚀 Passionate about AI, Deep Learning, System Design & Human-Centered Innovation<br/>
+  Passionate about AI, Deep Learning, System Design & Human-Centered Innovation.<br/>
+  Constantly building, learning, and pushing limits in tech.<br/>
   ⚡ Motto: <em>“Code. Evolve. Dominate.”</em>
 </p>
 
@@ -39,9 +38,7 @@
 
 - 🚖 **QuickRide** → Ride-sharing simulation built in Java  
 - 🛒 **ShoppingCart** → E-commerce cart with dynamic price & discount logic  
-- 🧠 **Ciel AI (WIP)** → A self-evolving transformer-based AI inspired by *divine intelligence*
-
-> *Evolution isn’t instant. It’s coded one epoch at a time.* ⚙️
+- 🔧 **More Projects Coming Soon** → Expanding portfolio with AI, backend, and system design work  
 
 ---
 
@@ -72,5 +69,5 @@
 ---
 
 <p align="center">
-  ✨ <em>“Like slime, I adapt. Like Ciel, I calculate. Together, I evolve.”</em> ✨
+  ✨ <em>“Adapt. Improve. Rise.”</em> ✨
 </p>
