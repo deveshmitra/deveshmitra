@@ -1,73 +1,74 @@
-<!-- Banner -->
+<!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://github.com/leviarista/github-profile-header-generator/raw/main/assets/tech-banner.png" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=00E8FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Devesh+Kumar+Mitra!;Coder+%7C+Tech+Explorer+%7C+Builder;Always+Learning+Something+New+🚀" />
 </p>
 
-# 💫 **Devesh Kumar Mitra**
-### *AI & ML Enthusiast | Future-Ready Developer*
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
+## 🚀 About Me
+I love building practical projects, experimenting with new concepts, and designing smooth user experiences.  
+I'm always shaping ideas into reality — one commit at a time.
+
+- 💡 Passion: Clean code + clean design  
+- 🎯 Goal: Build polished, real-world usable projects  
+- ⚡ Fun fact: My debugging speed increases by 200% when music is blasting  
+
+---
+
+## 🛠 Tech Stack  
 <p align="center">
-  Passionate about AI, Deep Learning, System Design & Human-Centered Innovation.<br/>
-  Constantly building, learning, and pushing limits in tech.<br/>
-  ⚡ Motto: <em>“Code. Evolve. Dominate.”</em>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nodejs,mysql,git,github,linux,vscode&perline=7" />
 </p>
 
 ---
 
-# 🛠 **Tech Arsenal**
-
+## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DBMS-4DB33D?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Structures-FF6F00?style=for-the-badge&logo=thealgorithms&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OOP-000000?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Problem%20Solving-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Design%20Thinking-FF4088?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=deveshmitra&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=deveshmitra&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🧩 **Featured Projects**
-
-- 🚖 **QuickRide** → Ride-sharing simulation built in Java  
-- 🛒 **ShoppingCart** → E-commerce cart with dynamic price & discount logic  
-- 🔧 **More Projects Coming Soon** → Expanding portfolio with AI, backend, and system design work  
-
----
-
-# 📊 **GitHub Stats**
-
+## 🧩 Contribution Snake (Animated)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deveshmitra&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=deveshmitra&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshmitra&layout=compact&theme=tokyonight" height="140"/>
+  <img src="https://raw.githubusercontent.com/deveshmitra/deveshmitra/output/snake.svg" alt="Snake animation">
 </p>
 
 ---
 
-# 🌐 **Connect with Me**
-
+## 🔥 Activity Graph  
 <p align="center">
-  <a href="https://www.linkedin.com/in/devesh-kumar-mitra-11b87a321/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:deveshmitra78@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deveshmitra&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
 
+## 📂 Featured Projects  
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🚀 **Project One** | A smooth, clean, functional project. | Java / JS |
+| 📦 **Utility Tool** | Designed for speed and simplicity. | Python |
+| 🌐 **Web Interface** | Modern UI with responsive layout. | HTML / CSS / React |
+
+---
+
+## 🎬 Motion Section  
 <p align="center">
-  ✨ <em>“Adapt. Improve. Rise.”</em> ✨
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300">
+</p>
+
+---
+
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+<p align="center">
+  <b>✨ Thanks for stopping by — let's build something cool. ✨</b>
 </p>
