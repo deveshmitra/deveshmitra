@@ -59,7 +59,7 @@ A well-structured Java shopping system featuring discounts, cart management, bil
 
 ---
 
-## 📊 GitHub Analytics (Premium Look)
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=deveshmitra&show_icons=true&theme=react&bg_color=0D1117&hide_border=true&icon_color=00E7FF&title_color=00E7FF" />
@@ -82,7 +82,7 @@ A well-structured Java shopping system featuring discounts, cart management, bil
 
 ---
 
-# 🎯 Featured Projects (Premium Cards)
+# 🎯 Featured Projects 
 
 | Project | Description | Tech |
 |--------|-------------|------|
