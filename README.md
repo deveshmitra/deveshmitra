@@ -1,115 +1,104 @@
-<!-- Animated Typing Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Devesh+Kumar+Mitra!;Developer+%7C+Tech+Explorer+%7C+Builder;Crafting+Clean+%26+Impactful+Projects+🚀" />
-</p>
-
-<!-- Premium Neon Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
-
-## ⚡ About Me
-I build practical, high-quality projects with a focus on clean structure and smooth user experiences.  
-I enjoy exploring new tech, experimenting with ideas, and creating well-crafted software.
-
-- 💎 Clean code enthusiast  
-- 🚀 Turning concepts into polished builds  
-- 🎯 Goal: Build 10+ refined projects this year  
-- 🎧 Coding fuel: Bass-boosted productivity mode  
-
----
-
-# 🔥 Premium Repository Spotlight
-
-<style>
-.repo-card {
-  padding: 18px;
-  border-radius: 12px;
-  border: 1px solid #00eaff55;
-  background: #0a0a0f;
-  box-shadow: 0 0 12px #00eaff55;
-  margin-bottom: 20px;
-}
-</style>
-
-<div class="repo-card">
-  
-### 🚗 **QuickRide**
-A polished Java ride-sharing simulator supporting bike/car booking, dynamic fare calculation, ETA prediction, and modular design.
-
-**Tech:** Java • OOP • CLI  
-🔗 https://github.com/deveshmitra/QuickRide  
+<!-- Animated Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Devesh%20Kumar%20Mitra&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20in%20the%20Making%20|%20Research-Oriented&descAlignY=52&descSize=18"/>
 </div>
 
-<div class="repo-card">
-
-### 🛒 **ShoppingCart**
-A well-structured Java shopping system featuring discounts, cart management, billing, and payment simulation.
-
-**Tech:** Java • OOP • CLI  
-🔗 https://github.com/deveshmitra/ShoppingCart  
+<!-- Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=750&lines=Known+online+as+Rimuru;Building+Intelligent+Systems+from+First+Principles;AI%2FML+%7C+Deep+Learning+%7C+AGI+Alignment;Focused+on+Depth%2C+Clarity%2C+Impact" />
 </div>
 
 ---
 
-## 🛠 Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,react,nodejs,mysql,git,github,linux,vscode&theme=dark&perline=7" />
-</p>
+## 👋 About Me
+
+I’m **Devesh Kumar Mitra** (known online as **Rimuru**), a **BTech CSE (AI & ML)** student at **Parul University**.
+
+I focus on understanding intelligence at its core — how models **learn, adapt, remember, and fail**.  
+Rather than treating ML as a black box, I aim to build systems from **first principles**, with a strong interest in **interpretability, alignment, and long-term AI safety**.
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=deveshmitra&show_icons=true&theme=react&bg_color=0D1117&hide_border=true&icon_color=00E7FF&title_color=00E7FF" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=deveshmitra&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🧩 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/deveshmitra/deveshmitra/output/snake.svg" alt="snake eating my contributions">
-</p>
+## 🧠 Core Interests
+- Machine Learning & Deep Learning fundamentals  
+- Neural Networks and optimization from scratch  
+- Transformers and memory-augmented models  
+- AGI alignment, interpretability, and safety  
 
 ---
 
-## 🔥 Activity Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deveshmitra&theme=react-dark&area=true&hide_border=true" />
-</p>
+## 🔬 What I’m Working On
+- Strengthening foundations: **DSA, OS, DBMS, OOP, Computer Networks, Mathematics**
+- Implementing ML algorithms from scratch to bridge theory and code
+- Studying alignment approaches: **RLHF, IRL, Constitutional AI**
+- Designing and experimenting with custom model architectures
+- Preparing for **research-oriented MS programs**
 
 ---
 
-# 🎯 Featured Projects 
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🚗 **QuickRide** | Ride-sim with fare, ETA & modular system | Java |
-| 🛒 **ShoppingCart** | Discounted billing & payment simulation | Java |
-| 🌐 **Web Interface** | Responsive interface & modern layout | HTML / CSS / React |
+## 🧪 Current Experiments
+- Backpropagation, optimizers, and loss functions from scratch  
+- Transformer internals: attention, positional encoding, scaling behavior  
+- Long-term neural memory ideas (retrieval-based + neurosymbolic)
+- Small-scale reproduction of ML research papers  
 
 ---
 
-## 🎬 Motion Section  
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" style="border-radius:12px;">
-</p>
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🤖 ML & Data
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
-  <a href="#"><img src="httpsillicons.dev/icons?i=instagram&theme=dark" /></a>
-  <a href="#"><img src="httpsillicons.dev/icons?i=github&theme=dark" /></a>
-</p>
+## 🎯 Near-Term Goals
+- Build deep ML + systems understanding  
+- Develop a strong research-focused project portfolio  
+- Contribute to open-source and academic repositories  
+- Advance toward higher studies and long-term AI research  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
+---
 
-<p align="center">
-  <b>✨ Thanks for visiting — premium code, premium vibes. ✨</b>
-</p>
+## 📊 GitHub Stats
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DeveshMitra&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DeveshMitra&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+## 📫 Connect With Me
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devesh-kumar-mitra-11b87a321/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deveshmitra78@gmail.com)
+
+</div>
+
+---
+
+<!-- Animated Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</div>
+
+<div align="center">
+
+> *Depth over hype. Systems over shortcuts.*
+
+</div>
