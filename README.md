@@ -76,8 +76,8 @@ Rather than treating ML as a black box, I aim to build systems from **first prin
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DeveshMitra&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DeveshMitra&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=deveshmitra&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=deveshmitra&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
