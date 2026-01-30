@@ -14,33 +14,33 @@
 
 I’m **Devesh Kumar Mitra** (known online as **Rimuru**), a **BTech CSE (AI & ML)** student at **Parul University**.
 
-I focus on understanding intelligence at its core — how models **learn, adapt, remember, and fail**.  
-Rather than treating ML as a black box, I aim to build systems from **first principles**, with a strong interest in **interpretability, alignment, and long-term AI safety**.
+I focus on understanding intelligence at its core — how models **learn, adapt, remember, and fail**. Rather than treating ML as a black box, I aim to build systems from **first principles**, with a strong interest in **interpretability, alignment, and long-term AI safety**.
 
 ---
 
 ## 🧠 Core Interests
-- Machine Learning & Deep Learning fundamentals  
-- Neural Networks and optimization from scratch  
-- Transformers and memory-augmented models  
-- AGI alignment, interpretability, and safety  
+
+- **Machine Learning & Deep Learning Fundamentals**: Neural Networks and optimization from scratch.
+- **Advanced Architectures**: Transformers and memory-augmented models.
+- **AI Safety & Alignment**: AGI alignment, interpretability, and safety.
 
 ---
 
 ## 🔬 What I’m Working On
-- Strengthening foundations: **DSA, OS, DBMS, OOP, Computer Networks, Mathematics**
-- Implementing ML algorithms from scratch to bridge theory and code
-- Studying alignment approaches: **RLHF, IRL, Constitutional AI**
-- Designing and experimenting with custom model architectures
-- Preparing for **research-oriented MS programs**
+
+- **Strengthening Foundations**: DSA, OS, DBMS, OOP, Computer Networks, Mathematics.
+- **From Scratch Implementations**: Building ML algorithms manually to bridge theory and code.
+- **Alignment Research**: Studying RLHF, IRL, and Constitutional AI.
+- **Research Preparation**: Designing custom architectures and preparing for research-oriented MS programs.
 
 ---
 
 ## 🧪 Current Experiments
-- Backpropagation, optimizers, and loss functions from scratch  
-- Transformer internals: attention, positional encoding, scaling behavior  
-- Long-term neural memory ideas (retrieval-based + neurosymbolic)
-- Small-scale reproduction of ML research papers  
+
+- Backpropagation, optimizers, and loss functions from scratch.
+- Transformer internals: attention, positional encoding, scaling behavior.
+- Long-term neural memory ideas (retrieval-based + neurosymbolic).
+- Small-scale reproduction of ML research papers.
 
 ---
 
@@ -67,38 +67,19 @@ Rather than treating ML as a black box, I aim to build systems from **first prin
 ---
 
 ## 🎯 Near-Term Goals
-- Build deep ML + systems understanding  
-- Develop a strong research-focused project portfolio  
-- Contribute to open-source and academic repositories  
-- Advance toward higher studies and long-term AI research  
+
+- Build deep ML + Systems understanding.
+- Develop a strong research-focused project portfolio.
+- Contribute to open-source and academic repositories.
+- Advance toward higher studies and long-term AI research.
 
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=deveshmitra&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=deveshmitra&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DeveshMitra&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DeveshMitra&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
-
-## 📫 Connect With Me
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devesh-kumar-mitra-11b87a321/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deveshmitra78@gmail.com)
-
-</div>
-
----
-
-<!-- Animated Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</div>
-
-<div align="center">
-
-> *Depth over hype. Systems over shortcuts.*
-
-</div>
