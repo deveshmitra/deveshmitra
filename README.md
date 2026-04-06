@@ -30,7 +30,6 @@ location    : Prayagraj, India 🇮🇳
 education   :
   degree    : B.Tech CSE (AI & ML)
   university: Parul University
-  cgpa      : 7.31
   year      : 2nd Year (2025-26)
 
 interests   :
@@ -38,7 +37,6 @@ interests   :
   - Machine Learning
   - Custom AI Architectures
   - Database Systems
-  - Anime (especially TenSura 🌟)
 
 currently_building:
   - Ciel AI (Judgment Mode — no APIs, from scratch)
