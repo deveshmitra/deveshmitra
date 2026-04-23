@@ -27,10 +27,7 @@
 name        : Devesh Kumar Mitra
 alias       : Rimuru
 location    : Prayagraj, India 🇮🇳
-education   :
-  degree    : B.Tech CSE (AI & ML)
-  university: Parul University
-  year      : 2nd Year (2025-26)
+degree    : B.Tech CSE (AI & ML)
 
 interests   :
   - Artificial Intelligence
@@ -38,9 +35,6 @@ interests   :
   - Custom AI Architectures
   - Database Systems
 
-currently_building:
-  - Ciel AI (Judgment Mode — no APIs, from scratch)
-  - Mini Search Engine (TF-IDF + Flask)
 
 goals_2025  :
   - Land AI/ML Internship
