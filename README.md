@@ -1,295 +1,350 @@
-&lt;div align="center"&gt;
+<div align="center">
 
-&lt;img src=".github/assets/rimuru-hero.gif" width="100%" alt="Rimuru — AI/ML Developer Hero Banner" /&gt;
+![Rimuru Banner](https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:0066FF,100:00D9FF&height=230&section=header&text=RIMURU&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Building%20Intelligent%20Systems&descAlignY=63&descSize=18)
 
-# ⚡ DEVESH KUMAR MITRA ⚡
-### 「 Rimuru 」
+# Devesh Kumar Mitra
 
-&lt;a href="https://github.com/deveshmitra"&gt;
-  &lt;img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=26&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=680&lines=AI%2FML+Engineer;Python+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Systems;Exploring+Custom+AI+Architectures" alt="Typing animation" /&gt;
-&lt;/a&gt;
+### `Rimuru`
 
-&lt;br/&gt;
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=720&lines=AI%2FML+Developer;Python+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Systems;Exploring+Custom+AI+Architectures)
 
-&lt;a href="https://github.com/deveshmitra"&gt;
-  &lt;img src="https://img.shields.io/badge/GitHub-deveshmitra-00E5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117" alt="GitHub" /&gt;
-&lt;/a&gt;
-&lt;a href="https://www.linkedin.com/in/devesh-kumar-mitra-11b87a321/"&gt;
-  &lt;img src="https://img.shields.io/badge/LinkedIn-Devesh%20Mitra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /&gt;
-&lt;/a&gt;
-&lt;a href="https://x.com/devesh__mitra"&gt;
-  &lt;img src="https://img.shields.io/badge/X-devesh__mitra-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="X" /&gt;
-&lt;/a&gt;
-&lt;a href="https://leetcode.com/u/mitra_devesh/"&gt;
-  &lt;img src="https://img.shields.io/badge/LeetCode-mitra__devesh-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117" alt="LeetCode" /&gt;
-&lt;/a&gt;
-&lt;a href="mailto:deveshmitra78@gmail.com"&gt;
-  &lt;img src="https://img.shields.io/badge/Email-deveshmitra78%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /&gt;
-&lt;/a&gt;
+**B.Tech CSE (AI & ML) · Parul University**
 
-&lt;/div&gt;
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-deveshmitra-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/deveshmitra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devesh%20Kumar%20Mitra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/devesh-kumar-mitra-11b87a321/)
+[![X](https://img.shields.io/badge/X-@devesh__mitra-000000?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://x.com/devesh__mitra)
+[![LeetCode](https://img.shields.io/badge/LeetCode-mitra__devesh-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFFFFF)](https://leetcode.com/u/mitra_devesh/)
+
+<br>
+
+[![Email](https://img.shields.io/badge/Email-deveshmitra78%40gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:deveshmitra78@gmail.com)
+
+</div>
 
 ---
 
-&lt;img src=".github/assets/rimuru-ai.gif" width="100%" alt="AI atmosphere banner" /&gt;
+<div align="center">
 
-## 🧬 About Me
+## `AI/ML • SYSTEMS • INTELLIGENT SOFTWARE`
 
-&lt;table align="center" width="100%"&gt;
-  &lt;tr&gt;
-    &lt;td width="55%" valign="top"&gt;
+> **Rimuru — AI/ML developer building intelligent systems.**
 
-**🧑‍💻 Who I am**
-&gt; CS student and developer focused on **Artificial Intelligence** and **Machine Learning** — designing and building intelligent systems under the alias **Rimuru**.
-
-**🎓 Degree**
-&gt; B.Tech CSE (AI & ML) — Parul University
-
-**🧠 Interests**
-&gt; AI · Machine Learning · Custom AI Architectures · Database Systems
-
-**📚 Currently Learning**
-&gt; Deep Learning · DBMS Internals · System Design · ML Fundamentals
-
-**🛠️ Development Focus**
-&gt; Retrieval systems, ML pipelines, backend architecture, and data-driven applications.
-
-&lt;/td&gt;
-&lt;td width="45%" valign="center" align="center"&gt;
-
-&lt;img src=".github/assets/github-metrics.svg" width="100%" alt="GitHub Metrics" /&gt;
-
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/table&gt;
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# `01` — About Me
 
-&lt;div align="center"&gt;
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Languages**
+### 👨‍💻 Who I Am
 
-&lt;img src="https://skillicons.dev/icons?i=python,java,c,js&theme=dark" alt="Languages" /&gt;
+I'm **Devesh Kumar Mitra**, known online as **Rimuru**.
 
-**AI / ML**
+I'm pursuing a:
 
-&lt;img src="https://skillicons.dev/icons?i=python,numpy,sklearn,flask&theme=dark" alt="AI/ML" /&gt;
+**B.Tech in Computer Science & Engineering  
+with specialization in Artificial Intelligence & Machine Learning**
 
-**Web**
+at **Parul University**.
 
-&lt;img src="https://skillicons.dev/icons?i=html,css,js,flask&theme=dark" alt="Web" /&gt;
+</td>
 
-**Database**
+<td width="50%" valign="top">
 
-&lt;img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Database" /&gt;
+### 🧠 What I Care About
 
-**Tools**
+My main interests are:
 
-&lt;img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools" /&gt;
+- Artificial Intelligence
+- Machine Learning
+- Custom AI Architectures
+- Database Systems
 
-&lt;/div&gt;
+I'm interested in understanding both the **algorithms** and the **systems behind intelligent software**.
 
----
-
-## 📊 GitHub Analytics
-
-&lt;div align="center"&gt;
-
-&lt;a href="https://github.com/deveshmitra"&gt;
-  &lt;img height="170em" src="https://github-readme-stats.vercel.app/api?username=deveshmitra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" /&gt;
-  &lt;img height="170em" src="https://streak-stats.demolab.com?user=deveshmitra&theme=tokyonight&hide_border=true&background=0d1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" /&gt;
-&lt;/a&gt;
-
-&lt;br/&gt;&lt;br/&gt;
-
-&lt;a href="https://github.com/deveshmitra"&gt;
-  &lt;img src=".github/assets/github-stats.svg" width="49%" alt="Repository-hosted GitHub stats" /&gt;
-  &lt;img src=".github/assets/github-activity.svg" width="49%" alt="Repository-hosted activity graph" /&gt;
-&lt;/a&gt;
-
-&lt;br/&gt;&lt;br/&gt;
-
-&lt;a href="https://github.com/deveshmitra"&gt;
-  &lt;img src="https://github-readme-activity-graph.vercel.app/graph?username=deveshmitra&bg_color=0d1117&color=00E5FF&line=00E5FF&point=58a6ff&area=true&area_color=1a2b4a&hide_border=true" width="100%" alt="Contribution activity graph" /&gt;
-&lt;/a&gt;
-
-&lt;/div&gt;
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚔️ LeetCode
+# `02` — Currently Learning
 
-&lt;div align="center"&gt;
+<table>
+<tr>
+<td align="center" width="25%">
 
-&lt;a href="https://leetcode.com/u/mitra_devesh/"&gt;
-  &lt;img src="https://img.shields.io/badge/LeetCode-mitra__devesh-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117" alt="LeetCode Profile" /&gt;
-&lt;/a&gt;
+### 🧠
 
-&lt;br/&gt;&lt;br/&gt;
+**Deep Learning**
 
-&lt;img src=".github/assets/leetcode-stats.svg" width="49%" alt="LeetCode statistics" /&gt;
-&lt;img src=".github/assets/leetcode-heatmap.svg" width="49%" alt="LeetCode heatmap" /&gt;
+</td>
 
-&lt;br/&gt;&lt;br/&gt;
+<td align="center" width="25%">
 
-&lt;em&gt;Statistics above are automatically generated and updated via GitHub Actions.&lt;/em&gt;
+### 🗄️
 
-&lt;/div&gt;
+**DBMS Internals**
+
+</td>
+
+<td align="center" width="25%">
+
+### 🏗️
+
+**System Design**
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**Machine Learning Fundamentals**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Project Showcase
+# `03` — Tech Stack
 
-&lt;div align="center"&gt;
+<div align="center">
 
-&lt;img src=".github/assets/projects/search-engine.gif" width="80%" alt="Mini Search Engine preview" /&gt;
+### Languages
 
-### 🔍 Mini Search Engine
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![C](https://skillicons.dev/icons?i=c)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
 
-&lt;img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117" alt="Python" /&gt;
-&lt;img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white&labelColor=0d1117" alt="Flask" /&gt;
-&lt;img src="https://img.shields.io/badge/TF--IDF-00E5FF?style=flat-square&logoColor=black&labelColor=0d1117" alt="TF-IDF" /&gt;
+<br><br>
 
-&lt;br/&gt;
+### AI / Machine Learning
 
-A lightweight information-retrieval engine built from the ground up.
+![Python](https://skillicons.dev/icons?i=python)
+![NumPy](https://skillicons.dev/icons?i=numpy)
+![scikit-learn](https://skillicons.dev/icons?i=sklearn)
+
+<br><br>
+
+### Web
+
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![Flask](https://skillicons.dev/icons?i=flask)
+
+<br><br>
+
+### Database
+
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+<br><br>
+
+### Tools
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+
+</div>
+
+---
+
+# `04` — Project Showcase
+
+## 🔎 Mini Search Engine
+
+**Python · Flask · TF-IDF**
+
+A search engine project focused on the fundamentals of information retrieval and ranked text search.
+
+### Key Features
 
 - Inverted indexing
 - Text preprocessing
 - TF-IDF ranking
 - Keyword highlighting
 
-&lt;a href="https://github.com/deveshmitra/Mini-Search-Engine"&gt;
-  &lt;img src="https://img.shields.io/badge/View%20Repository-00E5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117" alt="View Repository" /&gt;
-&lt;/a&gt;
+[![View Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/deveshmitra/Mini-Search-Engine)
 
 ---
 
-&lt;img src=".github/assets/projects/shopping-cart.gif" width="80%" alt="ShoppingCart preview" /&gt;
+## 🛒 ShoppingCart
 
-### 🛒 ShoppingCart
+**Java · Object-Oriented Programming**
 
-&lt;img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0d1117" alt="Java" /&gt;
-&lt;img src="https://img.shields.io/badge/OOP-00E5FF?style=flat-square&logoColor=black&labelColor=0d1117" alt="OOP" /&gt;
+A Java-based shopping cart implementation focused on object-oriented design and checkout logic.
 
-&lt;br/&gt;
-
-Object-oriented e-commerce cart engine with clean business logic.
+### Key Features
 
 - Product management
 - Discount rules
 - Checkout flow
 
-&lt;a href="https://github.com/deveshmitra/ShoppingCart"&gt;
-  &lt;img src="https://img.shields.io/badge/View%20Repository-00E5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117" alt="View Repository" /&gt;
-&lt;/a&gt;
+[![View Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/deveshmitra/ShoppingCart)
 
 ---
 
-&lt;img src=".github/assets/projects/quickride.gif" width="80%" alt="QuickRide preview" /&gt;
+## 🚗 QuickRide
 
-### 🚗 QuickRide
+**Java · Simulation**
 
-&lt;img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0d1117" alt="Java" /&gt;
-&lt;img src="https://img.shields.io/badge/Simulation-00E5FF?style=flat-square&logoColor=black&labelColor=0d1117" alt="Simulation" /&gt;
+A Java ride simulation covering different vehicle types and basic ride calculation logic.
 
-&lt;br/&gt;
+### Key Features
 
-Ride-booking simulation with fare and ETA logic.
-
-- Bike and car rides
+- Bike rides
+- Car rides
 - Fare calculation
 - ETA logic
 
-&lt;a href="https://github.com/deveshmitra/QuickRide"&gt;
-  &lt;img src="https://img.shields.io/badge/View%20Repository-00E5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117" alt="View Repository" /&gt;
-&lt;/a&gt;
-
-&lt;/div&gt;
+[![View Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/deveshmitra/QuickRide)
 
 ---
 
-## 🌊 Contribution Flow
+# `05` — GitHub Analytics
 
-&lt;div align="center"&gt;
+<div align="center">
 
-&lt;picture&gt;
-  &lt;source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deveshmitra/deveshmitra/output/github-contribution-grid-snake-dark.svg" /&gt;
-  &lt;source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deveshmitra/deveshmitra/output/github-contribution-grid-snake.svg" /&gt;
-  &lt;img alt="Contribution snake animation" src="https://raw.githubusercontent.com/deveshmitra/deveshmitra/output/github-contribution-grid-snake.svg" width="100%" /&gt;
-&lt;/picture&gt;
+### GitHub Statistics
 
-&lt;/div&gt;
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deveshmitra&show_icons=true&hide_border=true&bg_color=00000000&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github)
 
----
+### GitHub Streak
 
-## 🏅 Achievements & Certifications
+![GitHub Streak](https://streak-stats.demolab.com?user=deveshmitra&theme=transparent&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=888888)
 
-&lt;div align="center"&gt;
+### GitHub Activity
 
-&lt;img src="https://img.shields.io/badge/HackerRank-Gold%20%C2%B7%20Python%20Basic-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=0d1117" alt="HackerRank Gold - Python Basic" /&gt;
-&lt;img src="https://img.shields.io/badge/HackerRank-Gold%20%C2%B7%20Java%20Basic-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=0d1117" alt="HackerRank Gold - Java Basic" /&gt;
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deveshmitra&bg_color=00000000&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
 
-&lt;br/&gt;&lt;br/&gt;
-
-&lt;img src="https://img.shields.io/badge/HackerRank-Silver%20%C2%B7%20Problem%20Solving-C0C0C0?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=0d1117" alt="HackerRank Silver - Problem Solving" /&gt;
-&lt;img src="https://img.shields.io/badge/HackerRank-Bronze%20%C2%B7%20SQL-CD7F32?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=0d1117" alt="HackerRank Bronze - SQL" /&gt;
-
-&lt;br/&gt;&lt;br/&gt;
-
-&lt;img src="https://img.shields.io/badge/Earned-2025-00E5FF?style=for-the-badge&logoColor=black&labelColor=0d1117" alt="Certifications from 2025" /&gt;
-
-&lt;/div&gt;
+</div>
 
 ---
 
-## 🔮 Current Direction
+# `06` — Contribution Matrix
 
-&lt;div align="center"&gt;
+<div align="center">
 
-&lt;a href="https://github.com/deveshmitra"&gt;
-  &lt;img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=20&duration=2200&pause=700&color=58a6ff&center=true&vCenter=true&width=640&lines=Deep+Learning;Machine+Learning+Fundamentals;DBMS+Internals;System+Design;Custom+AI+Architectures" alt="Current focus" /&gt;
-&lt;/a&gt;
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-&lt;br/&gt;
-
-&lt;img src="https://img.shields.io/badge/Focus-AI%2FML-00E5FF?style=flat-square&logoColor=black&labelColor=0d1117" alt="AI/ML" /&gt;
-&lt;img src="https://img.shields.io/badge/Focus-Deep%20Learning-58a6ff?style=flat-square&logoColor=black&labelColor=0d1117" alt="Deep Learning" /&gt;
-&lt;img src="https://img.shields.io/badge/Focus-ML%20Fundamentals-8b5cf6?style=flat-square&logoColor=black&labelColor=0d1117" alt="ML Fundamentals" /&gt;
-&lt;img src="https://img.shields.io/badge/Focus-DBMS%20Internals-00E5FF?style=flat-square&logoColor=black&labelColor=0d1117" alt="DBMS Internals" /&gt;
-&lt;img src="https://img.shields.io/badge/Focus-System%20Design-58a6ff?style=flat-square&logoColor=black&labelColor=0d1117" alt="System Design" /&gt;
-&lt;img src="https://img.shields.io/badge/Focus-Custom%20AI%20Architectures-8b5cf6?style=flat-square&logoColor=black&labelColor=0d1117" alt="Custom AI Architectures" /&gt;
-
-&lt;/div&gt;
+</div>
 
 ---
 
-&lt;div align="center"&gt;
+# `07` — LeetCode
 
-&lt;img src=".github/assets/rimuru-banner.gif" width="100%" alt="Footer banner" /&gt;
+<div align="center">
 
-### 「 Rimuru 」 — AI/ML developer building intelligent systems.
+### Problem Solving Activity
 
-&lt;a href="https://github.com/deveshmitra"&gt;
-  &lt;img src="https://img.shields.io/badge/GitHub-deveshmitra-00E5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117" alt="GitHub" /&gt;
-&lt;/a&gt;
-&lt;a href="https://www.linkedin.com/in/devesh-kumar-mitra-11b87a321/"&gt;
-  &lt;img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /&gt;
-&lt;/a&gt;
-&lt;a href="https://x.com/devesh__mitra"&gt;
-  &lt;img src="https://img.shields.io/badge/X-devesh__mitra-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="X" /&gt;
-&lt;/a&gt;
-&lt;a href="https://leetcode.com/u/mitra_devesh/"&gt;
-  &lt;img src="https://img.shields.io/badge/LeetCode-mitra__devesh-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117" alt="LeetCode" /&gt;
-&lt;/a&gt;
-&lt;a href="mailto:deveshmitra78@gmail.com"&gt;
-  &lt;img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /&gt;
-&lt;/a&gt;
+[![LeetCode Stats](https://leetcard.jacoblin.cool/mitra_devesh?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/u/mitra_devesh/)
 
-&lt;br/&gt;&lt;br/&gt;
+<br>
 
-&lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00E5FF,100:8b5cf6&height=100&section=footer" width="100%" alt="Footer wave" /&gt;
+[![View LeetCode Profile](https://img.shields.io/badge/VIEW%20LEETCODE%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFFFFF)](https://leetcode.com/u/mitra_devesh/)
 
-&lt;/div&gt;
+</div>
+
+---
+
+# `08` — Certifications & Achievements
+
+<div align="center">
+
+![HackerRank Python](https://img.shields.io/badge/HackerRank-Gold%20%7C%20Python%20Basic-FFD700?style=for-the-badge&logo=hackerrank&logoColor=000000)
+
+![HackerRank Java](https://img.shields.io/badge/HackerRank-Gold%20%7C%20Java%20Basic-FFD700?style=for-the-badge&logo=hackerrank&logoColor=000000)
+
+<br>
+
+![HackerRank Problem Solving](https://img.shields.io/badge/HackerRank-Silver%20%7C%20Problem%20Solving-C0C0C0?style=for-the-badge&logo=hackerrank&logoColor=000000)
+
+![HackerRank SQL](https://img.shields.io/badge/HackerRank-Bronze%20%7C%20SQL-CD7F32?style=for-the-badge&logo=hackerrank&logoColor=000000)
+
+<br><br>
+
+![Certifications](https://img.shields.io/badge/Certifications-2025-00D9FF?style=for-the-badge)
+
+</div>
+
+---
+
+# `09` — Current Direction
+
+<div align="center">
+
+![Current Direction](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&lines=Learning+the+fundamentals.;Understanding+the+systems.;Building+intelligent+software.;Exploring+custom+AI+architectures.)
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI / Machine Learning
+
+- Machine Learning
+- Deep Learning
+- AI fundamentals
+- Intelligent systems
+- Custom AI architectures
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Systems & Engineering
+
+- DBMS Internals
+- System Design
+- Information retrieval
+- Software development
+- Database systems
+
+</td>
+</tr>
+</table>
+
+---
+
+# `10` — Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-deveshmitra-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/deveshmitra)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devesh%20Kumar%20Mitra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/devesh-kumar-mitra-11b87a321/)
+
+[![X](https://img.shields.io/badge/X-@devesh__mitra-000000?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://x.com/devesh__mitra)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-mitra__devesh-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFFFFF)](https://leetcode.com/u/mitra_devesh/)
+
+<br>
+
+[![Email](https://img.shields.io/badge/EMAIL-deveshmitra78%40gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:deveshmitra78@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0066FF,100:050505&height=140&section=footer)
+
+### `BUILD • LEARN • EXPLORE`
+
+**Rimuru · AI/ML Developer**
+
+<sub>Artificial Intelligence · Machine Learning · Systems · Intelligent Software</sub>
+
+</div>
