@@ -1,464 +1,295 @@
-<div align="center">
+&lt;div align="center"&gt;
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          HERO SECTION                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+&lt;img src=".github/assets/rimuru-hero.gif" width="100%" alt="Rimuru — AI/ML Developer Hero Banner" /&gt;
 
-<img src=".github/assets/rimuru-hero.gif" alt="Hero Banner" width="100%" />
+# ⚡ DEVESH KUMAR MITRA ⚡
+### 「 Rimuru 」
 
-<br/>
+&lt;a href="https://github.com/deveshmitra"&gt;
+  &lt;img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=26&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=680&lines=AI%2FML+Engineer;Python+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Systems;Exploring+Custom+AI+Architectures" alt="Typing animation" /&gt;
+&lt;/a&gt;
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Hey+there!+I'm+Devesh+Kumar+Mitra+%F0%9F%91%8B;aka+Rimuru+%E2%9A%A1" alt="Typing Header" />
+&lt;br/&gt;
 
-<br/>
+&lt;a href="https://github.com/deveshmitra"&gt;
+  &lt;img src="https://img.shields.io/badge/GitHub-deveshmitra-00E5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117" alt="GitHub" /&gt;
+&lt;/a&gt;
+&lt;a href="https://www.linkedin.com/in/devesh-kumar-mitra-11b87a321/"&gt;
+  &lt;img src="https://img.shields.io/badge/LinkedIn-Devesh%20Mitra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /&gt;
+&lt;/a&gt;
+&lt;a href="https://x.com/devesh__mitra"&gt;
+  &lt;img src="https://img.shields.io/badge/X-devesh__mitra-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="X" /&gt;
+&lt;/a&gt;
+&lt;a href="https://leetcode.com/u/mitra_devesh/"&gt;
+  &lt;img src="https://img.shields.io/badge/LeetCode-mitra__devesh-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117" alt="LeetCode" /&gt;
+&lt;/a&gt;
+&lt;a href="mailto:deveshmitra78@gmail.com"&gt;
+  &lt;img src="https://img.shields.io/badge/Email-deveshmitra78%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /&gt;
+&lt;/a&gt;
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&repeat=true&width=600&height=40&lines=AI+%2F+ML+Engineer;Python+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Systems;Exploring+Custom+AI+Architectures" alt="Typing Roles" />
+&lt;/div&gt;
 
-<br/><br/>
+---
 
-<a href="https://github.com/deveshmitra"><img src="https://img.shields.io/badge/GitHub-deveshmitra-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/devesh-kumar-mitra-11b87a321/"><img src="https://img.shields.io/badge/LinkedIn-Devesh%20Kumar%20Mitra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://x.com/devesh__mitra"><img src="https://img.shields.io/badge/X-@devesh__mitra-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://leetcode.com/u/mitra_devesh/"><img src="https://img.shields.io/badge/LeetCode-mitra__devesh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-<a href="mailto:deveshmitra78@gmail.com"><img src="https://img.shields.io/badge/Email-deveshmitra78-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+&lt;img src=".github/assets/rimuru-ai.gif" width="100%" alt="AI atmosphere banner" /&gt;
 
-<br/>
+## 🧬 About Me
 
-<img src="https://komarev.com/ghpvc/?username=deveshmitra&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" alt="Profile Views" />
+&lt;table align="center" width="100%"&gt;
+  &lt;tr&gt;
+    &lt;td width="55%" valign="top"&gt;
 
-</div>
+**🧑‍💻 Who I am**
+&gt; CS student and developer focused on **Artificial Intelligence** and **Machine Learning** — designing and building intelligent systems under the alias **Rimuru**.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+**🎓 Degree**
+&gt; B.Tech CSE (AI & ML) — Parul University
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          ABOUT ME                                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+**🧠 Interests**
+&gt; AI · Machine Learning · Custom AI Architectures · Database Systems
 
-<div align="center">
+**📚 Currently Learning**
+&gt; Deep Learning · DBMS Internals · System Design · ML Fundamentals
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About Me
+**🛠️ Development Focus**
+&gt; Retrieval systems, ML pipelines, backend architecture, and data-driven applications.
 
-</div>
+&lt;/td&gt;
+&lt;td width="45%" valign="center" align="center"&gt;
 
-<div align="center">
+&lt;img src=".github/assets/github-metrics.svg" width="100%" alt="GitHub Metrics" /&gt;
 
-<img align="right" src=".github/assets/rimuru-ai.gif" alt="AI Artwork" width="280" />
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
 
-</div>
+---
 
-<table>
-<tr>
-<td width="50%">
+## 🛠️ Tech Stack
 
-```yaml
-name: Devesh Kumar Mitra
-alias: Rimuru
-degree: B.Tech CSE (AI & ML)
-university: Parul University
-focus: AI / ML / Custom AI Architectures
-```
+&lt;div align="center"&gt;
 
-</td>
-<td width="50%">
+**Languages**
 
-**🔭 Interests**
-- Artificial Intelligence & Machine Learning
-- Custom AI Architectures
-- Database Systems & Internals
+&lt;img src="https://skillicons.dev/icons?i=python,java,c,js&theme=dark" alt="Languages" /&gt;
 
-**🌱 Currently Learning**
-- Deep Learning
-- DBMS Internals & System Design
-- Machine Learning Fundamentals
+**AI / ML**
 
-</td>
-</tr>
-</table>
+&lt;img src="https://skillicons.dev/icons?i=python,numpy,sklearn,flask&theme=dark" alt="AI/ML" /&gt;
 
-<br/>
+**Web**
 
-> *"I build intelligent systems and explore the boundaries of what AI can do."*
+&lt;img src="https://skillicons.dev/icons?i=html,css,js,flask&theme=dark" alt="Web" /&gt;
 
-<br/>
+**Database**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+&lt;img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Database" /&gt;
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          TECH STACK                                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+**Tools**
 
-<div align="center">
+&lt;img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools" /&gt;
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
+&lt;/div&gt;
 
-<br/>
+---
 
-### 🧠 Languages
+## 📊 GitHub Analytics
 
-<a href="#"><img src="https://skillicons.dev/icons?i=python,java,c,javascript&theme=dark" alt="Languages" /></a>
+&lt;div align="center"&gt;
 
-### 🤖 AI / ML
+&lt;a href="https://github.com/deveshmitra"&gt;
+  &lt;img height="170em" src="https://github-readme-stats.vercel.app/api?username=deveshmitra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" /&gt;
+  &lt;img height="170em" src="https://streak-stats.demolab.com?user=deveshmitra&theme=tokyonight&hide_border=true&background=0d1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" /&gt;
+&lt;/a&gt;
 
-<a href="#"><img src="https://skillicons.dev/icons?i=python,flask&theme=dark" alt="AI/ML Core" /></a>
-&nbsp;
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+&lt;br/&gt;&lt;br/&gt;
 
-### 🌐 Web
+&lt;a href="https://github.com/deveshmitra"&gt;
+  &lt;img src=".github/assets/github-stats.svg" width="49%" alt="Repository-hosted GitHub stats" /&gt;
+  &lt;img src=".github/assets/github-activity.svg" width="49%" alt="Repository-hosted activity graph" /&gt;
+&lt;/a&gt;
 
-<a href="#"><img src="https://skillicons.dev/icons?i=html,css,javascript,flask&theme=dark" alt="Web" /></a>
+&lt;br/&gt;&lt;br/&gt;
 
-### 🗄️ Database
+&lt;a href="https://github.com/deveshmitra"&gt;
+  &lt;img src="https://github-readme-activity-graph.vercel.app/graph?username=deveshmitra&bg_color=0d1117&color=00E5FF&line=00E5FF&point=58a6ff&area=true&area_color=1a2b4a&hide_border=true" width="100%" alt="Contribution activity graph" /&gt;
+&lt;/a&gt;
 
-<a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Database" /></a>
+&lt;/div&gt;
 
-### 🛠️ Tools
+---
 
-<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools" /></a>
+## ⚔️ LeetCode
 
-</div>
+&lt;div align="center"&gt;
 
-<br/>
+&lt;a href="https://leetcode.com/u/mitra_devesh/"&gt;
+  &lt;img src="https://img.shields.io/badge/LeetCode-mitra__devesh-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117" alt="LeetCode Profile" /&gt;
+&lt;/a&gt;
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+&lt;br/&gt;&lt;br/&gt;
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          PROJECT SHOWCASE                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+&lt;img src=".github/assets/leetcode-stats.svg" width="49%" alt="LeetCode statistics" /&gt;
+&lt;img src=".github/assets/leetcode-heatmap.svg" width="49%" alt="LeetCode heatmap" /&gt;
 
-<div align="center">
+&lt;br/&gt;&lt;br/&gt;
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Project Showcase
+&lt;em&gt;Statistics above are automatically generated and updated via GitHub Actions.&lt;/em&gt;
 
-</div>
+&lt;/div&gt;
 
-<br/>
+---
 
-<!-- ─── PROJECT 1: Mini Search Engine ─────────────────────────────────────── -->
+## 🚀 Project Showcase
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
+&lt;div align="center"&gt;
 
-<div align="center">
-<img src=".github/assets/projects/search-engine.gif" alt="Mini Search Engine" width="100%" />
-</div>
-
-</td>
-<td width="50%">
+&lt;img src=".github/assets/projects/search-engine.gif" width="80%" alt="Mini Search Engine preview" /&gt;
 
 ### 🔍 Mini Search Engine
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/TF--IDF-FF6F00?style=flat-square&logoColor=white" />
+&lt;img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117" alt="Python" /&gt;
+&lt;img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white&labelColor=0d1117" alt="Flask" /&gt;
+&lt;img src="https://img.shields.io/badge/TF--IDF-00E5FF?style=flat-square&logoColor=black&labelColor=0d1117" alt="TF-IDF" /&gt;
 
-A lightweight search engine built from scratch using inverted indexing and TF-IDF ranking.
+&lt;br/&gt;
 
-**Key Features:**
-- 📑 Inverted indexing for fast document retrieval
-- 🧹 Text preprocessing pipeline
-- 📊 TF-IDF relevance ranking
-- 🔦 Keyword highlighting in results
+A lightweight information-retrieval engine built from the ground up.
 
-<br/>
+- Inverted indexing
+- Text preprocessing
+- TF-IDF ranking
+- Keyword highlighting
 
-<a href="https://github.com/deveshmitra/Mini-Search-Engine"><img src="https://img.shields.io/badge/View_Repository-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="View Repository" /></a>
+&lt;a href="https://github.com/deveshmitra/Mini-Search-Engine"&gt;
+  &lt;img src="https://img.shields.io/badge/View%20Repository-00E5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117" alt="View Repository" /&gt;
+&lt;/a&gt;
 
-</td>
-</tr>
-</table>
-</div>
+---
 
-<br/>
-
-<!-- ─── PROJECT 2: ShoppingCart ────────────────────────────────────────────── -->
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
+&lt;img src=".github/assets/projects/shopping-cart.gif" width="80%" alt="ShoppingCart preview" /&gt;
 
 ### 🛒 ShoppingCart
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/OOP-007396?style=flat-square&logoColor=white" />
+&lt;img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0d1117" alt="Java" /&gt;
+&lt;img src="https://img.shields.io/badge/OOP-00E5FF?style=flat-square&logoColor=black&labelColor=0d1117" alt="OOP" /&gt;
 
-A clean, object-oriented shopping cart system demonstrating solid software design principles.
+&lt;br/&gt;
 
-**Key Features:**
-- 📦 Product management system
-- 💰 Discount rules engine
-- 🧾 Complete checkout flow
+Object-oriented e-commerce cart engine with clean business logic.
 
-<br/>
+- Product management
+- Discount rules
+- Checkout flow
 
-<a href="https://github.com/deveshmitra/ShoppingCart"><img src="https://img.shields.io/badge/View_Repository-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="View Repository" /></a>
+&lt;a href="https://github.com/deveshmitra/ShoppingCart"&gt;
+  &lt;img src="https://img.shields.io/badge/View%20Repository-00E5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117" alt="View Repository" /&gt;
+&lt;/a&gt;
 
-</td>
-<td width="50%">
+---
 
-<div align="center">
-<img src=".github/assets/projects/shopping-cart.gif" alt="ShoppingCart" width="100%" />
-</div>
-
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-<!-- ─── PROJECT 3: QuickRide ──────────────────────────────────────────────── -->
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-<div align="center">
-<img src=".github/assets/projects/quickride.gif" alt="QuickRide" width="100%" />
-</div>
-
-</td>
-<td width="50%">
+&lt;img src=".github/assets/projects/quickride.gif" width="80%" alt="QuickRide preview" /&gt;
 
 ### 🚗 QuickRide
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Simulation-38BDF8?style=flat-square&logoColor=white" />
+&lt;img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0d1117" alt="Java" /&gt;
+&lt;img src="https://img.shields.io/badge/Simulation-00E5FF?style=flat-square&logoColor=black&labelColor=0d1117" alt="Simulation" /&gt;
 
-A ride-hailing simulation system with support for multiple vehicle types and dynamic fare calculation.
+&lt;br/&gt;
 
-**Key Features:**
-- 🏍️ Bike and car ride modes
-- 💵 Dynamic fare calculation
-- ⏱️ ETA estimation logic
+Ride-booking simulation with fare and ETA logic.
 
-<br/>
+- Bike and car rides
+- Fare calculation
+- ETA logic
 
-<a href="https://github.com/deveshmitra/QuickRide"><img src="https://img.shields.io/badge/View_Repository-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="View Repository" /></a>
+&lt;a href="https://github.com/deveshmitra/QuickRide"&gt;
+  &lt;img src="https://img.shields.io/badge/View%20Repository-00E5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117" alt="View Repository" /&gt;
+&lt;/a&gt;
 
-</td>
-</tr>
-</table>
-</div>
+&lt;/div&gt;
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## 🌊 Contribution Flow
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          GITHUB ANALYTICS                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+&lt;div align="center"&gt;
 
-<div align="center">
+&lt;picture&gt;
+  &lt;source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deveshmitra/deveshmitra/output/github-contribution-grid-snake-dark.svg" /&gt;
+  &lt;source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deveshmitra/deveshmitra/output/github-contribution-grid-snake.svg" /&gt;
+  &lt;img alt="Contribution snake animation" src="https://raw.githubusercontent.com/deveshmitra/deveshmitra/output/github-contribution-grid-snake.svg" width="100%" /&gt;
+&lt;/picture&gt;
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"> &nbsp;GitHub Analytics
+&lt;/div&gt;
 
-<br/>
+---
 
-<a href="https://github.com/deveshmitra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deveshmitra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=38BDF8" alt="GitHub Stats" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/deveshmitra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshmitra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-</a>
+## 🏅 Achievements & Certifications
 
-<br/><br/>
+&lt;div align="center"&gt;
 
-<!-- GitHub Streak -->
-<a href="https://github.com/deveshmitra">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deveshmitra&theme=tokyonight_duo&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=38BDF8&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" alt="GitHub Streak" />
-</a>
+&lt;img src="https://img.shields.io/badge/HackerRank-Gold%20%C2%B7%20Python%20Basic-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=0d1117" alt="HackerRank Gold - Python Basic" /&gt;
+&lt;img src="https://img.shields.io/badge/HackerRank-Gold%20%C2%B7%20Java%20Basic-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=0d1117" alt="HackerRank Gold - Java Basic" /&gt;
 
-<br/><br/>
+&lt;br/&gt;&lt;br/&gt;
 
-<!-- Activity Graph -->
-<a href="https://github.com/deveshmitra">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deveshmitra&bg_color=0D1117&color=00D9FF&line=38BDF8&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="95%" />
-</a>
+&lt;img src="https://img.shields.io/badge/HackerRank-Silver%20%C2%B7%20Problem%20Solving-C0C0C0?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=0d1117" alt="HackerRank Silver - Problem Solving" /&gt;
+&lt;img src="https://img.shields.io/badge/HackerRank-Bronze%20%C2%B7%20SQL-CD7F32?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=0d1117" alt="HackerRank Bronze - SQL" /&gt;
 
-<br/><br/>
+&lt;br/&gt;&lt;br/&gt;
 
-<!-- Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deveshmitra/deveshmitra/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deveshmitra/deveshmitra/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/deveshmitra/deveshmitra/output/github-snake-dark.svg" width="100%" />
-</picture>
+&lt;img src="https://img.shields.io/badge/Earned-2025-00E5FF?style=for-the-badge&logoColor=black&labelColor=0d1117" alt="Certifications from 2025" /&gt;
 
-</div>
+&lt;/div&gt;
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## 🔮 Current Direction
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          LEETCODE                                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+&lt;div align="center"&gt;
 
-<div align="center">
+&lt;a href="https://github.com/deveshmitra"&gt;
+  &lt;img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=20&duration=2200&pause=700&color=58a6ff&center=true&vCenter=true&width=640&lines=Deep+Learning;Machine+Learning+Fundamentals;DBMS+Internals;System+Design;Custom+AI+Architectures" alt="Current focus" /&gt;
+&lt;/a&gt;
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="28"> &nbsp;LeetCode Stats
+&lt;br/&gt;
 
-<br/>
+&lt;img src="https://img.shields.io/badge/Focus-AI%2FML-00E5FF?style=flat-square&logoColor=black&labelColor=0d1117" alt="AI/ML" /&gt;
+&lt;img src="https://img.shields.io/badge/Focus-Deep%20Learning-58a6ff?style=flat-square&logoColor=black&labelColor=0d1117" alt="Deep Learning" /&gt;
+&lt;img src="https://img.shields.io/badge/Focus-ML%20Fundamentals-8b5cf6?style=flat-square&logoColor=black&labelColor=0d1117" alt="ML Fundamentals" /&gt;
+&lt;img src="https://img.shields.io/badge/Focus-DBMS%20Internals-00E5FF?style=flat-square&logoColor=black&labelColor=0d1117" alt="DBMS Internals" /&gt;
+&lt;img src="https://img.shields.io/badge/Focus-System%20Design-58a6ff?style=flat-square&logoColor=black&labelColor=0d1117" alt="System Design" /&gt;
+&lt;img src="https://img.shields.io/badge/Focus-Custom%20AI%20Architectures-8b5cf6?style=flat-square&logoColor=black&labelColor=0d1117" alt="Custom AI Architectures" /&gt;
 
-<a href="https://leetcode.com/u/mitra_devesh/">
-  <img src="https://leetcard.jacoblin.cool/mitra_devesh?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" alt="LeetCode Stats" width="500" />
-</a>
+&lt;/div&gt;
 
-<br/><br/>
+---
 
-<a href="https://leetcode.com/u/mitra_devesh/">
-  <img src="https://img.shields.io/badge/Solve_Problems_on-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
-</a>
+&lt;div align="center"&gt;
 
-</div>
+&lt;img src=".github/assets/rimuru-banner.gif" width="100%" alt="Footer banner" /&gt;
 
-<br/>
+### 「 Rimuru 」 — AI/ML developer building intelligent systems.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+&lt;a href="https://github.com/deveshmitra"&gt;
+  &lt;img src="https://img.shields.io/badge/GitHub-deveshmitra-00E5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117" alt="GitHub" /&gt;
+&lt;/a&gt;
+&lt;a href="https://www.linkedin.com/in/devesh-kumar-mitra-11b87a321/"&gt;
+  &lt;img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /&gt;
+&lt;/a&gt;
+&lt;a href="https://x.com/devesh__mitra"&gt;
+  &lt;img src="https://img.shields.io/badge/X-devesh__mitra-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="X" /&gt;
+&lt;/a&gt;
+&lt;a href="https://leetcode.com/u/mitra_devesh/"&gt;
+  &lt;img src="https://img.shields.io/badge/LeetCode-mitra__devesh-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117" alt="LeetCode" /&gt;
+&lt;/a&gt;
+&lt;a href="mailto:deveshmitra78@gmail.com"&gt;
+  &lt;img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /&gt;
+&lt;/a&gt;
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                     ACHIEVEMENTS / CERTIFICATIONS                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+&lt;br/&gt;&lt;br/&gt;
 
-<div align="center">
+&lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00E5FF,100:8b5cf6&height=100&section=footer" width="100%" alt="Footer wave" /&gt;
 
-## 🏆 Achievements & Certifications
-
-<br/>
-
-<img src="https://img.shields.io/badge/HackerRank-🥇_Gold-FFD700?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1BA94C" alt="HackerRank Gold" />
-&nbsp;
-<img src="https://img.shields.io/badge/Python_Basic-Gold_Badge-FFD700?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1BA94C" alt="Python Basic Gold" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/HackerRank-🥇_Gold-FFD700?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1BA94C" alt="HackerRank Gold" />
-&nbsp;
-<img src="https://img.shields.io/badge/Java_Basic-Gold_Badge-FFD700?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1BA94C" alt="Java Basic Gold" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/HackerRank-🥈_Silver-C0C0C0?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1BA94C" alt="HackerRank Silver" />
-&nbsp;
-<img src="https://img.shields.io/badge/Problem_Solving-Silver_Badge-C0C0C0?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1BA94C" alt="Problem Solving Silver" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/HackerRank-🥉_Bronze-CD7F32?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1BA94C" alt="HackerRank Bronze" />
-&nbsp;
-<img src="https://img.shields.io/badge/SQL-Bronze_Badge-CD7F32?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1BA94C" alt="SQL Bronze" />
-
-<br/><br/>
-
-<sub>📅 Certifications earned in 2025</sub>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          CURRENT DIRECTION                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🧭 Current Direction
-
-<br/>
-
-<img src=".github/assets/rimuru-banner.gif" alt="Banner" width="600" />
-
-<br/><br/>
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="150">
-
-**🤖 AI / ML**
-<br/>
-<sub>Building intelligent<br/>systems & models</sub>
-
-</td>
-<td align="center" width="150">
-
-**🧠 Deep Learning**
-<br/>
-<sub>Neural networks &<br/>architecture design</sub>
-
-</td>
-<td align="center" width="150">
-
-**📐 ML Fundamentals**
-<br/>
-<sub>Core algorithms &<br/>mathematical theory</sub>
-
-</td>
-<td align="center" width="150">
-
-**🗄️ DBMS Internals**
-<br/>
-<sub>Storage engines &<br/>query optimization</sub>
-
-</td>
-<td align="center" width="150">
-
-**🏗️ System Design**
-<br/>
-<sub>Scalable architecture<br/>& distributed systems</sub>
-
-</td>
-<td align="center" width="150">
-
-**⚡ Custom AI**
-<br/>
-<sub>Novel architectures<br/>& AI research</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          FOOTER                                           -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1500&color=00D9FF&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Thanks+for+visiting!+%F0%9F%9A%80;Let's+build+something+intelligent+together." alt="Footer Typing" />
-
-<br/><br/>
-
-### 🤝 Connect With Me
-
-<br/>
-
-<a href="https://github.com/deveshmitra"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/devesh-kumar-mitra-11b87a321/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-&nbsp;
-<a href="https://x.com/devesh__mitra"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-&nbsp;
-<a href="https://leetcode.com/u/mitra_devesh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-&nbsp;
-<a href="mailto:deveshmitra78@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=120&section=footer&animation=twinkling" width="100%" />
-
-</div>
+&lt;/div&gt;
