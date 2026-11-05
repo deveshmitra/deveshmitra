@@ -221,11 +221,15 @@ A ride-sharing simulation exploring vehicle types, fare calculation, and estimat
 
 ---
 
-# `06` — Contribution Graph
+# `06` — 3D Contribution Graph
 
 <div align="center">
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+### Contribution Activity · Isometric 3D
+
+<img src="./3d-contributions.svg" alt="Devesh Mitra's 3D GitHub Contribution Graph" width="100%">
+
+<sub>Visualizing consistency, commits, and continuous development.</sub>
 
 </div>
 
